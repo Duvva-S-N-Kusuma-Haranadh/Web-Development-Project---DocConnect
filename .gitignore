@@ -1,0 +1,16 @@
+# Ignore compiled output
+build/
+bin/
+dist/
+
+# Ignore IDE specific files
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+*.swp
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
